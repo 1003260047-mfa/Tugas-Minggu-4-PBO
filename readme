@@ -1,0 +1,7 @@
+#step by step
+
+1. cd src
+
+2. javac Main0047.java Service0047.java Bengkel0047.java
+
+3. java Main0047.java
